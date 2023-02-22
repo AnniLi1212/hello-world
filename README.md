@@ -1,2 +1,1 @@
-# hello-world
-PHYS 139
+PHYS 139 is fun!
